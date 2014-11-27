@@ -7,6 +7,6 @@ github , nodejs , mongo 써봤음.
 '''
   var a = 1;
   var b = 2;
-'''
+...
 
 이건가?
